@@ -1,16 +1,19 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffc0cb&height=300&section=header&text=Kim%20Yeojung&&fontSize=70)
+<div align=center>
+  <h1>About me</h1>
+</div>
 
-<!--
-**NaYeojung/NaYeojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is KimYoujung.<br>
+I'm 22 years old and in third grade.<br>
+I like listening to music. These are my favorite musician.
+- Lauv
+- Jang beomjun
+- Jannabi
 
-Here are some ideas to get you started:
+I want to learn many things in this class during the semester. <br>
+Thank you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 instagram : ii_journey <br>
+🌟 email : duwjd5721@naver.com
+
+
