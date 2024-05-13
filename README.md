@@ -4,11 +4,6 @@
 </div>
 
 Hi, my name is KimYoujung.<br>
-I'm 22 years old and in third grade.<br>
-I like listening to music. These are my favorite musician.
-- Lauv
-- Jang beomjun
-- Jannabi
 
 I want to learn many things in this class during the semester. <br>
 Thank you.
